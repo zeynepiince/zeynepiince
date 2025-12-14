@@ -1,8 +1,5 @@
 ## Hi there, I'm Zeynep Ince 👋
 
-<!--
-**zeynepiince/zeynepiince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 4th-year Computer Engineering student at Fenerbahçe University, passionate about AI and Web Development.
 
 ## 🔹 Skills
