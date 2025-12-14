@@ -1,4 +1,4 @@
-## Hi there, I'm Zeynep Ince 👋
+<h1 align="center">Hi there, I'm Zeynep Ince 👋</h1>
 
 4th-year Computer Engineering student at Fenerbahçe University, passionate about AI and Web Development.
 
