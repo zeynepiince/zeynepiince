@@ -21,6 +21,6 @@
 ## 📫 Contact With Me
 
 <p align="center">
-  📧 Email: <a href="zeynep9971@hotmail.com">youremail@example.com</a> <br>
-  🔗 LinkedIn: <a href="www.linkedin.com/in/zeynep-ince-684283277">linkedin.com/in/yourprofile</a> <br>
+  📧 Email: <a href="zeynep9971@hotmail.com">zeynep9971@hotmail.com</a> <br>
+  🔗 LinkedIn: <a href="www.linkedin.com/in/zeynep-ince-684283277">linkedin.com/in/zeynepince</a> <br>
 </p>
