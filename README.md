@@ -21,6 +21,7 @@
 ## 📫 Contact With Me
 
 <p align="center">
-  📧 Email: <a href="zeynep9971@hotmail.com">zeynep9971@hotmail.com</a> <br>
-  🔗 LinkedIn: <a href="www.linkedin.com/in/zeynep-ince-684283277">www.linkedin.com/in/zeynep-ince-684283277</a> <br>
+  📧 Email: <a href="mailto:zeynep9971@hotmail.com">zeynep9971@hotmail.com</a> <br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/zeynep-ince-684283277">www.linkedin.com/in/zeynep-ince-684283277</a>
 </p>
+
