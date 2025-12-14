@@ -1,11 +1,26 @@
 <h1 align="center">Hi there, I'm Zeynep Ince 👋</h1>
+<p align="center">
+  4th-year Computer Engineering student at Fenerbahçe University, passionate about AI and Web Development.
+</p>
 
-4th-year Computer Engineering student at Fenerbahçe University, passionate about AI and Web Development.
+---
 
 ## 🔹 Skills
-- Programming: Python, C#, JavaScript, TypeScript
-- Frontend: HTML, CSS, Angular
-- Backend: Python, C#, ASP.NET
-- Database: SQL, MySQL
-- AI / ML & Tools: Python, PyTorch, TensorFlow, scikit-learn, Streamlit
-- Tools: Git, Docker
+
+<p align="left">
+  <b>Programming:</b> 🐍 Python, 💻 C#, 🌐 JavaScript, TypeScript<br>
+  <b>Frontend:</b> 🎨 HTML, CSS, Angular<br>
+  <b>Backend:</b> ⚙️ Python, C#, ASP.NET<br>
+  <b>Database:</b> 🗄️ SQL, MySQL<br>
+  <b>AI / ML & Tools:</b> 🤖 Python, PyTorch, TensorFlow, scikit-learn, Streamlit<br>
+  <b>Tools:</b> 🛠️ Git, Docker
+</p>
+
+---
+
+## 📫 Contact With Me
+
+<p align="center">
+  📧 Email: <a href="zeynep9971@hotmail.com">youremail@example.com</a> <br>
+  🔗 LinkedIn: <a href="www.linkedin.com/in/zeynep-ince-684283277">linkedin.com/in/yourprofile</a> <br>
+</p>
