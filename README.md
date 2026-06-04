@@ -61,10 +61,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepiince&show_icons=true&theme=radical" />
+  Check out my repositories and projects below!
 </p>
 
 ---
